@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+  font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #808080;
+  background-image: url('../images/websitebackground.png');
+  background-size: 100vw auto;
+  background-position: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
