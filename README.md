@@ -4,9 +4,9 @@ An open source AI web chatbot that is trained over specific clinic/hospital data
 from web content and customer reviews.
 
 ## Developers
- [Kevin Xiao](https://xckev.github.io)
+ [Kevin Xiao](https://xckev.github.io) - Full-stack development
  
- [Jianguo Chen](https://www.linkedin.com/in/jianguochen/)
+ [Jianguo Chen](https://www.linkedin.com/in/jianguochen/) - Guidance and mentorship
 
 ## Project Description
 
